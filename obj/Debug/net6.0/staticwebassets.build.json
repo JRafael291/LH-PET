@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "uhrAIVXVYUhB2HSNiZu3GnAhU7o4fM7Sj60DMVDqyuc=",
+  "Source": "LH PET",
+  "BasePath": "_content/LH PET",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LH PET\\wwwroot",
+      "Source": "LH PET",
+      "ContentRoot": "C:\\Users\\SANDRA LOPES\\Documents\\Rafael\\LH PET\\wwwroot\\",
+      "BasePath": "_content/LH PET",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\SANDRA LOPES\\Documents\\Rafael\\LH PET\\wwwroot\\index.html",
+      "SourceId": "LH PET",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SANDRA LOPES\\Documents\\Rafael\\LH PET\\wwwroot\\",
+      "BasePath": "_content/LH PET",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
